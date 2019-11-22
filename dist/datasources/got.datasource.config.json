@@ -1,0 +1,10 @@
+{
+    "name": "got",
+    "connector": "mssql",
+    "url": "",
+    "host": "csjg-icc",
+    "port": 1433,
+    "user": "sa",
+    "password": "102401",
+    "database": "test"
+}
